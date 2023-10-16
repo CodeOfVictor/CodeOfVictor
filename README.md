@@ -1,4 +1,5 @@
-Hi there 👋
+**Hi there 👋**
+<br>
 **👨‍🎨 About me**
 <br>
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeOfVictor&theme=github_dark)
