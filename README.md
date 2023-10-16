@@ -1,12 +1,11 @@
 # Hi there 👋
-<br>
+
 ## 👨‍🎨About me👨‍🎨
-<br>
+
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeOfVictor&theme=github_dark)
-<br>
 
 ## Hobbies
-<br>
+
 🧑‍💻📚🚀🧑‍🚀🎵🎥
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 
