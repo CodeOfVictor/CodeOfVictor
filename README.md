@@ -1,15 +1,16 @@
-### Hi there 👋
+Hi there 👋
 **👨‍🎨 About me**
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeOfVictor&theme=github_dark)
 
-**Hobbies**
+**Hobbies**<br>
 🧑‍💻📚🚀🧑‍🚀🎵🎥
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 
 **Social media**
 
-[![bio.link](https://img.shields.io/badge/bio.link-000000?style=for-the-badge&logo=biolink&logoColor=white)](https://bio.link/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://example.com/)
+[![bio.link](https://img.shields.io/badge/bio.link-000000?style=for-the-badge&logo=biolink&logoColor=white)](https://https://codeofvictor.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/victor-jose/))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/CodeOfVictor)
 
 **Videogames**
 
