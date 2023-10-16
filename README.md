@@ -1,4 +1,3 @@
-## 👨‍🎨About me👨‍🎨
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeOfVictor&theme=github_dark)
 ## Hobbies
 🧑‍💻📚🚀🧑‍🚀🎵🎥
