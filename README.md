@@ -1,5 +1,5 @@
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeOfVictor&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=CodeOfVictor&theme=dark)](https://git.io/streak-stats)
+<!---[![GitHub Streak](https://streak-stats.demolab.com?user=CodeOfVictor&theme=dark)](https://git.io/streak-stats)!-->
 ## Hobbies
 🧑‍💻📚🚀🧑‍🚀🎵🎥
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
